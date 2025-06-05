@@ -1,4 +1,4 @@
-# Hell Mouse
+# Sin Eater
 Bullet Hell With Mouse
 
 Basically: I want to make a Unity game where it's a bullet hell but with your mouse.
@@ -23,3 +23,11 @@ Once all of this is done I want to
 - Create different character types
 - Create a visual novel
 - Potentially levels, skills, equipment, although I'm not too sure about this
+
+
+Tying it with my story, you can have different weapons
+- Basic shots
+- Scythe AoE attacks
+- Special moves (bombs)
+
+and upgrade your attack speed, bullet speed, health points, etc.
