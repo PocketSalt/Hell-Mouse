@@ -8,9 +8,9 @@ So breaking it down:
 - A spawner that spawns obstacles [Done]
 - Controlling the spawning so it's set patterns [Done]
 - Different spawners [Done]
-- Player attack
+- Player attack [Done]
+- Giving spawners health so they can be shot down by the player [Done]
 - Spawning in Spawners with set times so they can go in and out of the level
-- Giving spawners health so they can be shot down by the player
 - Creating a boss that ends the game on death
 
 
