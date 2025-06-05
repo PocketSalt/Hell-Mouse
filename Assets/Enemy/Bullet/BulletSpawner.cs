@@ -43,7 +43,7 @@ public class BulletSpawner : MonoBehaviour
         if (m_spawnerType == SpawnerType.TARGET)
         {
             Quaternion targetRotation = GetTargetAngle(m_target);
-            transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, 100 * Time.deltaTime);
+            transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, 10 * Time.deltaTime);
         }
 
         if (timer >= m_firingRate)
